@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+body {
+
+    background: rgb(245, 245, 245);
+
+    color: green;
+
+    font-size: 25px;
+
+    font-family: Palette Mosaic;
+
+}
+
+h1 {
+
+    font-family: Courier;
+
+    color: red;
+
+    font-weight: lighter;
+
+    font-size: 10px;
+
+}
+
+h2 {
+
+    font-family: Courier;
+
+    color: pink;
+
+    font-weight: lighter;
+
+    font-size: 8px;
+
+    
+
+}
+
+a {
+
+    color: yellow;
+
+}
+
+a:hover {
+
+    text-decoration: none;
+
+    color: purple;
+
+}
+
+#banner {
+
+    text-align: center;
+
+    background-image: url("https://images.pexels.com/photos/866398/pexels-photo-866398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+    background-size: cover;
+
+    padding: 150px;
+
+    color: white;
+
+    text-shadow: 1px 1px 5px black;
+
+}
+
+#banner h1 {
+
+    color: white;
+
+    font-size: 50px;
+
+}
+
+#banner p {
+
+    color: white;
+
+    opacity: 0.8;
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+}
+
+#footer {
+
+    padding: 30px;
+    background-image: url("https://reliablehandymanservice.com.au/wp-content/uploads/2014/12/footer-background-01.jpg");
+    /* background: rgb(30, 30, 30); */
+
+    color: lightgrey;
+
+}
+
+.tarjeta {
+
+    padding: 50px;
+
+    font-weight: lighter;
+
+}
+#footer a {
+
+    color: lightgrey;
+  
+    font-size: 25px;
+  
+  }
+  
+  #footer a:hover {
+  
+    color: white;
+  
+  }
